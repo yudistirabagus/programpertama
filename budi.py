@@ -1,0 +1,6 @@
+print('Ini program pertama saya')
+print('Nama saya ani')
+print('Alamat saya blballalbal')
+print('Hobi saya blalala')
+print('Saya berasal dari sekolah ininini')
+print('Saya lahir pada tanggal sekian')
